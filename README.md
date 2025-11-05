@@ -5,9 +5,11 @@ Beginner games created using Unity HUB and C#.
 
 
 
-## 
-<img width=50% height=50% alt="image" src="https://github.com/user-attachments/assets/3b9a8eaa-3376-4cde-a9df-58f3be88939f" />
-Technology
+##Description
+This repository contains a collection of Unity game projects. The projects showcase various gameplay mechanics and Unity engine features, serving as practical examples of building games using Unity and C#
+<img width=50% height=50% alt="image" src="https://github.com/user-attachments/assets/3b9a8eaa-3376-4cde-a9df-58f3be88939f" /><br/>
+
+<b>Technology</b>
 - JAVASCRIPT
 - HTML
 - CSS
