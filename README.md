@@ -3,7 +3,11 @@ Beginner games created using Unity HUB and C#.
 2. FighterCookie : A platform game with character jumping over and killing enemies.
 3. CookieWars : A platform game with character killing zombies and collecting coins. [https://winnie-224.itch.io/test-zombie-war-game?secret=9Yrfmt2RiVTv04sPP7SUgNDfFGQ]
 
-## Technology
+
+
+## 
+<img width=50% height=50% alt="image" src="https://github.com/user-attachments/assets/3b9a8eaa-3376-4cde-a9df-58f3be88939f" />
+Technology
 - JAVASCRIPT
 - HTML
 - CSS
